@@ -23,4 +23,3 @@ int main(void)
 
 	return (0);
 }
-100-print_comb3.c
